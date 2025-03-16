@@ -9,3 +9,4 @@
 
 ## Workspace analysis with two redundancy
 
+![manip](https://github.com/user-attachments/assets/7c27159a-b1f1-4c7d-94a5-0feecb26f4b4)
