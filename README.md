@@ -5,7 +5,7 @@
 
 ## WorkSpace analysis with one redundancy
 
-![mapping1r](https://github.com/user-attachments/assets/0bccafc3-49a2-4623-92a3-c5b9e4920398)
+![mapping1r](https://github.com/user-attachments/assets/4395c53b-248c-4ef8-ad66-8bc0486a78e6)
 
 ## Workspace analysis with two redundancy
 
